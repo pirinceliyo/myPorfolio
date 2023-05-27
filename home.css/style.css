@@ -1,0 +1,69 @@
+.aa {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.title {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+
+
+}
+
+.wrap1 {
+    width: 100%;
+}
+
+.about {
+    background-color: #16213E;
+    color: whitesmoke;
+}
+
+
+.list {
+    line-height: 1.7;
+    font-size: 1.05rem;
+}
+
+.ligne {
+    line-height: 2;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.educ {
+    background-image: url(../images/images\ \(1\).jpeg);
+    background-size: 100% 100%;
+    color: #e1e3d8;
+    padding: 5rem 0px;
+    border-radius: 300px 0 300px 0;
+
+
+}
+
+.text {
+    font-size: 1.15rem;
+}
+
+.border {
+    border-radius: 1rem;
+
+}
+
+.shadow1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+body {
+
+    background-image: linear-gradient(to bottom right, #D3D3D3, #9fe5ce, #66CDAA);
+}
+
+.pth3 {
+    padding-top: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

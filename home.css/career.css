@@ -1,0 +1,125 @@
+body {
+
+    background-image: linear-gradient(to bottom right, #D3D3D3, #9fe5ce, #66CDAA);
+}
+
+
+.title {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+}
+
+.heather-career {
+    background-color: #16213E;
+
+}
+
+.color {
+    color: whitesmoke;
+}
+
+.img-heigth {
+    height: 35rem;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #040303;
+    height: 200px;
+    text-align: center;
+}
+
+.link {
+    float: right;
+    display: inline-flex;
+    margin-top: 2%;
+    margin-right: 2%;
+}
+
+.bt1 a {
+    background-color: #1E5128;
+    padding: 10px;
+}
+
+.bt2 a {
+    background-color: #182747;
+    padding: 10px;
+}
+
+.bt3 a {
+    background-color: #443C68;
+    padding: 10px;
+}
+
+div a {
+    border-radius: 5px;
+    color: whitesmoke;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-decoration-line: none;
+    margin: 5px;
+}
+
+.resume {
+    padding-top: 5%;
+}
+
+.mytitle {
+    margin-top: 0;
+    color: white;
+}
+
+.resumesection {
+    background-color: aquamarine;
+
+}
+
+.speed {
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
+.contenair-resume {
+    width: 50%;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    margin-top: 0px;
+    padding: 0px 20px;
+
+}
+
+hr {
+    border-style: double;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-top: 0px;
+
+    text-align: center;
+}
+
+.reference-title {
+    text-align: center;
+    margin-bottom: 0px;
+    padding-top: 30px;
+
+}
+
+.reference-people {
+    width: 50%;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    margin-top: 0px;
+    padding: 0px 20px;
+}
+
+
+.last-paragraph {
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
